@@ -2,6 +2,9 @@
 This program shows how to find number of cards in the specified level by the user in a pyramid of cards
 
 the formulae used here is as follows
+
+
+
 for i in range(1,n+1):
             cards=cards+(i*2).......................(1)
             level=level+(i-1).......................(2)
