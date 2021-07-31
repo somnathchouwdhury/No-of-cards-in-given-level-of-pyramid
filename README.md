@@ -15,3 +15,6 @@ for i in range(1,n+1):
 This formulae can also be simplified by combining the stetements (1) & (2)
 cards=cards+(i*2)+(i-1)
      =cards + 3i -1...................................(since cards and level both were used to store previous valuse therefore they can be merged)
+
+
+
